@@ -6,6 +6,7 @@ tidy dataset from the Samsung data provided with the assignment.
 ### run_analysis.R
 
 The script has been created to complete the 5 steps set out in the assignment.
+
 The steps are as follows:
 
 1. Merge the training and the test sets to create one data set.
